@@ -1,0 +1,3 @@
+name = "opennext-cloudflare"
+compatibility_date = "2025-08-01"
+main = "worker/index.mjs"
